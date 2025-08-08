@@ -1,0 +1,3 @@
+[submodule "aws_terraform"]
+	path = aws_terraform
+	url = https://github.com/whs-dontdothat-aws/aws_terraform.git
